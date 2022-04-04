@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="231497" started-at="2022-04-03T22:40:41 IST" finished-at="2022-04-03T22:44:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="231497" started-at="2022-04-03T22:40:41 IST" finished-at="2022-04-03T22:44:33 IST">
+      <class name="org.runnerclasstestng.RunnerClass1234">
+        <test-method status="PASS" signature="report_Generation()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="report_Generation" is-config="true" duration-ms="1054" started-at="2022-04-03T22:40:41 IST" finished-at="2022-04-03T22:40:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Generation -->
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="browserlaunch" is-config="true" duration-ms="25063" started-at="2022-04-03T22:40:42 IST" finished-at="2022-04-03T22:41:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="Login" is-config="true" duration-ms="19530" started-at="2022-04-03T22:41:08 IST" finished-at="2022-04-03T22:41:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="casualdress()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="casualdress" duration-ms="45763" started-at="2022-04-03T22:41:27 IST" finished-at="2022-04-03T22:42:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casualdress -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="logout" is-config="true" duration-ms="9797" started-at="2022-04-03T22:42:13 IST" finished-at="2022-04-03T22:42:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="Login" is-config="true" duration-ms="10667" started-at="2022-04-03T22:42:23 IST" finished-at="2022-04-03T22:42:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="summerdress()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="summerdress" duration-ms="41915" started-at="2022-04-03T22:42:33 IST" finished-at="2022-04-03T22:43:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summerdress -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="logout" is-config="true" duration-ms="8553" started-at="2022-04-03T22:43:15 IST" finished-at="2022-04-03T22:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="Login" is-config="true" duration-ms="8882" started-at="2022-04-03T22:43:24 IST" finished-at="2022-04-03T22:43:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="winterdress()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="winterdress" duration-ms="43600" started-at="2022-04-03T22:43:33 IST" finished-at="2022-04-03T22:44:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- winterdress -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="logout" is-config="true" duration-ms="15445" started-at="2022-04-03T22:44:16 IST" finished-at="2022-04-03T22:44:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:org.runnerclasstestng.RunnerClass1234@4ef782af]" name="flush" is-config="true" duration-ms="922" started-at="2022-04-03T22:44:32 IST" finished-at="2022-04-03T22:44:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- org.runnerclasstestng.RunnerClass1234 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
